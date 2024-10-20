@@ -1,0 +1,401 @@
+Movie,Best Predictor,COD
+Erik the Viking (1989),I.Q. (1994),0.731507476731657
+I.Q. (1994),Erik the Viking (1989),0.7315074767316568
+Patton (1970),The Lookout (2007),0.7135542589926913
+The Lookout (2007),Patton (1970),0.7135542589926912
+The Bandit (1996),Best Laid Plans (1999),0.7112222468014325
+Best Laid Plans (1999),The Bandit (1996),0.7112222468014324
+Congo (1995),The Straight Story (1999),0.7005689836445022
+The Straight Story (1999),Congo (1995),0.7005689836445022
+The Final Conflict (1981),The Lookout (2007),0.7001881161214467
+Ran (1985),Heavy Traffic (1973),0.6927335239652475
+Heavy Traffic (1973),Ran (1985),0.6927335239652475
+FeardotCom (2002),The Final Conflict (1981),0.6910371117905774
+Stir Crazy (1980),The Silencers (1966),0.6819831258114571
+The Silencers (1966),Stir Crazy (1980),0.681983125811457
+Crimson Tide (1995),The Straight Story (1999),0.6784535648314336
+The Station Agent (2003),Ed Wood (1994),0.6713849837329366
+Ed Wood (1994),The Station Agent (2003),0.6713849837329366
+The Lord of the Rings: The Fellowship of the Ring (2001),The Lord of the Rings: The Two Towers (2002),0.6651097646606814
+The Lord of the Rings: The Two Towers (2002),The Lord of the Rings: The Fellowship of the Ring (2001),0.6651097646606814
+21 Grams (2003),The Lookout (2007),0.6609185178922179
+Sexy Beast (2000),The Silencers (1966),0.6594355043318669
+Miller's Crossing (1990),The Lookout (2007),0.6567814482605832
+What Lies Beneath (2000),Erik the Viking (1989),0.655060560957997
+The Core (2003),I.Q. (1994),0.6513410144105207
+Escape from LA (1996),Sexy Beast (2000),0.6496095342338334
+Downfall (2004),The Lookout (2007),0.6432951942975045
+Red Sonja (1985),The Lookout (2007),0.6408947751704266
+The Insider (1999),I.Q. (1994),0.6394983899860375
+Blow (2001),The Straight Story (1999),0.6391034530171278
+In America (2002),Stir Crazy (1980),0.6358040642735169
+Close Encounters of the Third Kind (1977),I.Q. (1994),0.6346072938424792
+Analyze That (2002),The Lookout (2007),0.6334262606152417
+Unforgiven (1992),Sexy Beast (2000),0.6333133697330241
+The Firm (1993),Barb Wire (1996),0.632746249191271
+Barb Wire (1996),The Firm (1993),0.6327462491912709
+Along Came a Spider (2002),The Lookout (2007),0.632651586784865
+The 51st State (2001),Sexy Beast (2000),0.6323439673995209
+Bram Stoker's Dracula (1992),The Straight Story (1999),0.6313284174648424
+De-Lovely (2004),The Firm (1993),0.6305766639060496
+Boomerang (1992),Sexy Beast (2000),0.6292893132747557
+Cocktail (1988),The Lookout (2007),0.6268457026256169
+Billy Jack (1971),Sexy Beast (2000),0.6263251337499547
+Hollow Man (2000),Crimson Tide (1995),0.6248934705853029
+MacArthur (1977),Miller's Crossing (1990),0.6244019043081227
+Father's Day (1997),The Lookout (2007),0.6225047855681649
+Once Upon a Time in the West (1968),FeardotCom (2002),0.6210084837658294
+Divine Secrets of the Ya-Ya Sisterhood (2002),Stir Crazy (1980),0.6198002669878374
+Moonraker (1979),Unforgiven (1992),0.6190337625229674
+Andaz Apna Apna (1994),The Doom Generation (1995),0.6186491631397999
+The Doom Generation (1995),Andaz Apna Apna (1994),0.6186491631397999
+Judge Dredd (1995),The Bandit (1996),0.6139590247785986
+Suspiria (1977),Miller's Crossing (1990),0.6110562698338586
+A Time to Kill (1996),Boomerang (1992),0.6110096761404729
+Broken Arrow (1996),The Bandit (1996),0.6106470169683111
+A Perfect Murder (1998),Sexy Beast (2000),0.6101281082791372
+Butch Cassidy and the Sundance Kid (1969),Along Came a Spider (2002),0.6080739505347184
+Barbarella (1968),The King of Marvin Gardens (1972),0.6065715562668179
+The King of Marvin Gardens (1972),Barbarella (1968),0.6065715562668179
+Battlefield Earth (2000),Sexy Beast (2000),0.6031072175254055
+Like Stars on Earth (2007),Father's Day (1997),0.6030690044338824
+Point Break (1991),What Lies Beneath (2000),0.6020763412153762
+Freddy Got Fingered (2001),Heavy Traffic (1973),0.5926799301108323
+The Game (1997),Erik the Viking (1989),0.5906790680750406
+Date and Switch (2014),Boomerang (1992),0.5904189099662545
+On Golden Pond (1981),Red Sonja (1985),0.588893417001671
+Double Jeopardy (1999),The Lookout (2007),0.5872946161757617
+American Graffiti (1973),Sexy Beast (2000),0.584905283421949
+Tropic of Cancer (1970),Stir Crazy (1980),0.5846898600473226
+The Village (2004),The Lookout (2007),0.5834305873382578
+The Deer Hunter (1978),A Perfect Murder (1998),0.5826765012002226
+Midnight Cowboy (1969),Patton (1970),0.5817704576293936
+Cable Guy (1996),Crimson Tide (1995),0.5798731998183906
+Sholay (1978),The 51st State (2001),0.579596595565732
+L.A. Confidential (1997),The Deer Hunter (1978),0.5767612496270458
+The Sting (1973),I.Q. (1994),0.5750405394168969
+Change of Habit (1969),Cool Hand Luke (1967),0.5749972440338817
+Cool Hand Luke (1967),Change of Habit (1969),0.5749972440338817
+Adaption (2002),Boomerang (1992),0.5730054666414603
+Mystic River (2003),Escape from LA (1996),0.5724541927325251
+Gods and Generals (2003),Sexy Beast (2000),0.5702224232432986
+Slackers (2002),Change of Habit (1969),0.5699468166410963
+Air Force One (1997),The Final Conflict (1981),0.5692789141276591
+The Life of David Gale (2003),The King of Marvin Gardens (1972),0.5675329673680642
+House of Sand and Fog (2003),The Straight Story (1999),0.5658946686388151
+Cinema Paradiso (1988),MacArthur (1977),0.564975452997534
+Harry Potter and the Sorcerer's Stone (2001),Harry Potter and the Chamber of Secrets (2002),0.5639080588803832
+Harry Potter and the Chamber of Secrets (2002),Harry Potter and the Sorcerer's Stone (2001),0.5639080588803831
+From Hell (2001),The King of Marvin Gardens (1972),0.5622853817697189
+The Land That Time Forgot (1974),The Bandit (1996),0.5607136652452841
+Wing Commander (1999),From Hell (2001),0.5606275642181673
+Diamonds are Forever (1971),Sexy Beast (2000),0.5593682670723853
+Can't Hardly Wait (1998),The Straight Story (1999),0.5593234185003938
+3000 Miles to Graceland (2001),The King of Marvin Gardens (1972),0.558714358298324
+The Lord of the Rings: The Return of the King (2003),The Lord of the Rings: The Fellowship of the Ring (2001),0.5584103130598053
+JFK (1991),Unforgiven (1992),0.5566577680328803
+Gigli (2002),What Lies Beneath (2000),0.5552540059374397
+The Passenger (1975),Broken Arrow (1996),0.5549019048518791
+A Night at the Roxbury (1998),Patton (1970),0.5527256724178615
+War Games (1983),The 51st State (2001),0.5517758033735717
+City of God (2002),MacArthur (1977),0.5491603781881607
+North (1994),Chain Reaction (1996),0.5486437055810683
+Chain Reaction (1996),North (1994),0.5486437055810682
+Harry Potter and the Goblet of Fire (2005),Harry Potter and the Chamber of Secrets (2002),0.5473830364255856
+Bowling For Columbine (2002),What Lies Beneath (2000),0.541365966851986
+Traffic (2000),The Bandit (1996),0.5383396035696302
+Misery (1990),What Lies Beneath (2000),0.538283805050229
+The Fugitive (1993),Miller's Crossing (1990),0.5359125672665055
+Boy's Don't Cry (1999),Erik the Viking (1989),0.5357808238386107
+Scent of a Woman (1992),Sexy Beast (2000),0.5349927079807025
+Girl With a Pearl Earring (2003),What Lies Beneath (2000),0.5330994935354925
+Casino (1995),Escape from LA (1996),0.5307042731618601
+Brazil (1985),Change of Habit (1969),0.525606321750943
+Mulholland Dr. (2001),FeardotCom (2002),0.5245999213280801
+Speed 2: Cruise Control (1997),The Lookout (2007),0.5232381272294993
+As Good as it Gets (1997),MacArthur (1977),0.5223511569192691
+My Father and My Son (2005),The Lookout (2007),0.5210596299036838
+Fahrenheit 9/11 (2004),Erik the Viking (1989),0.5198458306313596
+Dogville (2003),Miller's Crossing (1990),0.5179419913080188
+Funny Girl (1968),The King of Marvin Gardens (1972),0.5166055041789005
+Platoon (1986),The 51st State (2001),0.5140055325223654
+25th Hour (2002),Sexy Beast (2000),0.5118116636201016
+Sling Blade (1996),The King of Marvin Gardens (1972),0.5115934334763836
+Pieces of April (2003),Wing Commander (1999),0.5113219338879923
+What Women Want (2000),What Lies Beneath (2000),0.5096411595211336
+Kill Bill: Vol. 2 (2004),Kill Bill: Vol. 1 (2003),0.509623270383415
+Kill Bill: Vol. 1 (2003),Kill Bill: Vol. 2 (2004),0.509623270383415
+Sorority Boys (2002),Pieces of April (2003),0.5093646907331285
+The Descent (2005),Miller's Crossing (1990),0.5087548377843522
+A.I. Artificial Intelligence (2001),I.Q. (1994),0.508117908504208
+Being John Malkovich (1999),Escape from LA (1996),0.5069031823128882
+The Perfect Storm (2000),Stir Crazy (1980),0.5042670997545744
+Thoroughly Modern Millie (1967),The Station Agent (2003),0.5014864880671385
+Once Upon a Time in America (1984),Pieces of April (2003),0.501260155402371
+Star Wars: Episode VI - The Return of the Jedi (1983),Star Wars: Episode V - The Empire Strikes Back (1980),0.5004437625213171
+Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode VI - The Return of the Jedi (1983),0.500443762521317
+Look Who's Talking (1989),Ran (1985),0.4998956669137101
+Torque (2004),Tropic of Cancer (1970),0.49813178680420245
+Chicago (2002),What Lies Beneath (2000),0.4965947103384033
+Wild Wild West (1999),Crimson Tide (1995),0.4958107957317134
+Fatal Attraction (1987),The Bandit (1996),0.49342329734890955
+Who's Afraid of Virginia Woolf (1966),Date and Switch (2014),0.4919069238844386
+Leon (1994),Once Upon a Time in the West (1968),0.49147734717177416
+Love Story (1970),The King of Marvin Gardens (1972),0.49057949084024044
+Die Hard With a Vengeance (1995),De-Lovely (2004),0.4881081951802324
+Bad Boys 2 (2003),Bad Boys (1995),0.48578461879700974
+Bad Boys (1995),Bad Boys 2 (2003),0.48578461879700974
+Terms of Endearment (1983),Boomerang (1992),0.48539510629832994
+Runaway Bride (1999),Escape from LA (1996),0.485289709921102
+Die Another Day (2002),Escape from LA (1996),0.48097298232755425
+Flowers in the Attic (1987),The Lookout (2007),0.4808673027729854
+Star Wars: Episode VII - The Force Awakens (2015),Star Wars: Episode VI - The Return of the Jedi (1983),0.48066758170267787
+The Bridges of Madison County (1995),Brazil (1985),0.4794519850173842
+Gangs of New York (2002),Casino (1995),0.4787682578224548
+Blazing Saddles (1974),FeardotCom (2002),0.477276207145264
+Fear and Loathing in Las Vegas (1998),Slackers (2002),0.4767535689999072
+Ghost (1990),Crimson Tide (1995),0.47548568057992235
+Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode V - The Empire Strikes Back (1980),0.4727745504679235
+American History X (1998),Patton (1970),0.47231197991523033
+Sleepy Hollow (1999),Erik the Viking (1989),0.4690135296205561
+Requiem for a Dream (2000),Once Upon a Time in the West (1968),0.468272574195977
+The Three Musketeers (1993),The 51st State (2001),0.46545927543595256
+Harry Potter and the Deathly Hallows: Part 2 (2011),Harry Potter and the Sorcerer's Stone (2001),0.46524427603107166
+Toy Story 2 (1999),Toy Story 3 (2010),0.4649078494661363
+Toy Story 3 (2010),Toy Story 2 (1999),0.4649078494661363
+The Girl Next Door (2004),Erik the Viking (1989),0.46421707030321835
+Rain Man (1988),Erik the Viking (1989),0.46186653126171995
+Magnolia (1999),The King of Marvin Gardens (1972),0.46088245584732046
+Black Hawk Down (2001),Erik the Viking (1989),0.4600544396549502
+Snatch (2000),Slackers (2002),0.45983684517772305
+The Usual Suspects (1995),Miller's Crossing (1990),0.45875318301412005
+Life is Beautiful (1997),De-Lovely (2004),0.45807452090588796
+Hellraiser (1987),MacArthur (1977),0.4555512074582013
+Oldboy (2003),Andaz Apna Apna (1994),0.45373787011193845
+X-Men 2 (2003),X-Men (2000),0.45307251800810433
+X-Men (2000),X-Men 2 (2003),0.45307251800810433
+Showgirls (1995),Change of Habit (1969),0.45253811016249046
+My Best Friend's Wedding (1997),Erik the Viking (1989),0.45211586447912566
+Stand By Me (1986),Sexy Beast (2000),0.4516926929036629
+Just Like Heaven (2005),Change of Habit (1969),0.45129545653278824
+Shrek 2 (2004),Shrek (2001),0.4510268177555402
+Shrek (2001),Shrek 2 (2004),0.4510268177555402
+Toy Story (1995),Toy Story 2 (1999),0.4506862901251196
+Predator (1987),The Final Conflict (1981),0.449550255392416
+There's Something About Mary (1998),Patton (1970),0.4482141186433587
+The Talented Mr. Ripley (1999),The Lookout (2007),0.44779347361133226
+The Prestige (2006),What Lies Beneath (2000),0.44774333588909754
+Man on Fire (2004),Cool Hand Luke (1967),0.44722999341040504
+Reservoir Dogs (1992),Patton (1970),0.44648635101339407
+The Mummy (1999),The Mummy Returns (2001),0.44366213116320563
+The Mummy Returns (2001),The Mummy (1999),0.4436621311632055
+Just Married (2003),De-Lovely (2004),0.44366097725463416
+Equilibrium (2002),Change of Habit (1969),0.4433325904344152
+Let the Right One In (2008),Slackers (2002),0.440634409724456
+The Good the Bad and the Ugly (1966),The 51st State (2001),0.43953187121124326
+The Poseidon Adventure (1972),The King of Marvin Gardens (1972),0.4387589579009237
+You're Next (2011),Miller's Crossing (1990),0.4384356044459745
+The Rock (1996),The King of Marvin Gardens (1972),0.43839183751048405
+The Green Mile (1999),The Game (1997),0.4329819455909022
+Men in Black II (2002),Men in Black (1997),0.43135875293743753
+Men in Black (1997),Men in Black II (2002),0.4313587529374374
+Uptown Girls (2003),The Firm (1993),0.4289831185912518
+The Blue Lagoon (1980),Crimson Tide (1995),0.4289149370934737
+The Machinist (2004),Escape from LA (1996),0.428765958035613
+The Evil Dead (1981),Escape from LA (1996),0.42869529140270746
+Knight and Day (2010),Point Break (1991),0.4268440575456022
+28 Days Later (2002),Miller's Crossing (1990),0.42384844923471443
+Dances with Wolves (1990),The Deer Hunter (1978),0.4235507851172867
+Blues Brothers 2000 (1998),The 51st State (2001),0.4216782524022984
+Twister (1996),Sexy Beast (2000),0.4188687331718818
+The Big Lebowski (1998),Escape from LA (1996),0.41767373518258677
+Goodfellas (1990),Patton (1970),0.4161597725339885
+Austin Powers: The Spy Who Shagged Me (1999),Austin Powers in Goldmember (2002),0.41411802815118837
+Austin Powers in Goldmember (2002),Austin Powers: The Spy Who Shagged Me (1999),0.41411802815118837
+Crossroads (2002),Pieces of April (2003),0.4125064980825913
+Gone in Sixty Seconds (2000),The 51st State (2001),0.41102463304683523
+Aliens (1986),Miller's Crossing (1990),0.4095733957811696
+Full Metal Jacket (1987),Escape from LA (1996),0.4093814118301511
+Hannibal (2001),The Straight Story (1999),0.40715066243622655
+Apocalypse Now (1979),Midnight Cowboy (1969),0.40651790736162496
+Angels in the Outfield (1994),Heavy Traffic (1973),0.4054095875331265
+Anger Management (2002),The Bandit (1996),0.4044004250316604
+Honey (2003),Sexy Beast (2000),0.4029410853904397
+12 Monkeys (1995),Change of Habit (1969),0.40187112859351204
+Star Wars: Episode II - Attack of the Clones (2002),Star Wars: Episode 1 - The Phantom Menace (1999),0.4010061938750953
+Star Wars: Episode 1 - The Phantom Menace (1999),Star Wars: Episode II - Attack of the Clones (2002),0.4010061938750952
+Almost Famous (2000),Sexy Beast (2000),0.4004940928581887
+Big Daddy (1999),Crimson Tide (1995),0.40020471823187165
+Arachnophobia (1990),The Land That Time Forgot (1974),0.39969578204849276
+Child's Play (1988),The Lookout (2007),0.3980451426044648
+Braveheart (1995),Blow (2001),0.39661256410208945
+The Intouchables (2011),The Station Agent (2003),0.39633600477723063
+The Godfather (1972),The Godfather: Part II (1974),0.39617822835795946
+The Godfather: Part II (1974),The Godfather (1972),0.39617822835795946
+Cast Away (2000),The Lookout (2007),0.3952430145330452
+Baby Geniuses (1999),Sexy Beast (2000),0.39495523216292006
+Pirates of the Caribbean: At World's End (2007),Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.39487603864032406
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),Pirates of the Caribbean: At World's End (2007),0.39487603864032406
+Rosemary's Baby (1968),Close Encounters of the Third Kind (1977),0.3940414297384146
+Night of the Living Dead (1968),Escape from LA (1996),0.3935617517507587
+The Transporter (2002),I.Q. (1994),0.3933040084427799
+The Truman Show (1998),The Deer Hunter (1978),0.3923193454414887
+The Others (2001),Barbarella (1968),0.389955443245133
+Rocky V (1991),The Bandit (1996),0.38946486297888794
+Memento (2000),Miller's Crossing (1990),0.3867827621812314
+Monsters  Inc.(2001),Toy Story (1995),0.3818434877352124
+The Thing (1982),Sexy Beast (2000),0.3765194385193833
+Taxi Driver (1976),Diamonds are Forever (1971),0.3760593567253243
+Indiana Jones and the Last Crusade (1989),Indiana Jones and the Temple of Doom (1984),0.3744782737500618
+Indiana Jones and the Temple of Doom (1984),Indiana Jones and the Last Crusade (1989),0.3744782737500617
+Halloween (1978),FeardotCom (2002),0.3698652332308161
+Rocky (1976),Best Laid Plans (1999),0.3691271995984998
+Groundhog Day (1993),FeardotCom (2002),0.36787705611106325
+The Mist (2007),The Lookout (2007),0.36739333138654573
+Lost in Translation (2003),Cool Hand Luke (1967),0.36734540692857864
+Die Hard (1988),Escape from LA (1996),0.36732443127717773
+Pirates of the Caribbean: Dead Man's Chest (2006),Pirates of the Caribbean: At World's End (2007),0.367212431026693
+Armageddon (1998),Billy Jack (1971),0.36566464632450857
+Girl Interrupted (1999),Sexy Beast (2000),0.36462482484888026
+One Flew Over the Cuckoo's Nest (1975),Miller's Crossing (1990),0.3638334713662861
+Meet the Parents (2000),FeardotCom (2002),0.36250432267214616
+The Shawshank Redemption (1994),Crimson Tide (1995),0.36090438569871985
+Donnie Darko (2001),Patton (1970),0.36067537079665846
+Se7en (1995),Escape from LA (1996),0.36009431204746145
+Big Fish (2003),Chain Reaction (1996),0.35984601041296704
+Friday the 13th Part III (1982),The Final Conflict (1981),0.3556565722326055
+Happy Gilmore (1996),Billy Madison (1995),0.34695569982297814
+Billy Madison (1995),Happy Gilmore (1996),0.346955699822978
+Anaconda (1997),The Lookout (2007),0.3468630914638312
+10000 BC (2008),The Bandit (1996),0.34657854995103166
+The Holiday (2006),What Lies Beneath (2000),0.3447317675535898
+A Clockwork Orange (1971),Heavy Traffic (1973),0.3439020085320824
+Who Framed Roger Rabbit (1988),FeardotCom (2002),0.343222159157451
+Ocean's Eleven (2001),Analyze That (2002),0.33678101795516846
+Minority Report (2002),From Hell (2001),0.3357214607453455
+Scream 3 (2000),Friday the 13th Part III (1982),0.329702765979356
+Alien (1979),Aliens (1986),0.32954793641177993
+Finding Nemo (2003),Monsters  Inc.(2001),0.32851214942146456
+Eternal Sunshine of the Spotless Mind (2004),Analyze That (2002),0.32668553511792064
+Pearl Harbor (2001),The Final Conflict (1981),0.3239298874561414
+Ace Ventura: When Nature Calls (1995),FeardotCom (2002),0.3230798212990106
+Cloverfield (2008),Blow (2001),0.3229678994009517
+Blade Runner (1982),The Final Conflict (1981),0.31562411638911303
+Indiana Jones and the Raiders of the Lost Ark (1981),Indiana Jones and the Last Crusade (1989),0.31366080451639533
+The Matrix Revolutions (2003),The Matrix Reloaded (2003),0.3134122306874445
+The Matrix Reloaded (2003),The Matrix Revolutions (2003),0.3134122306874443
+The Omen (1976),Brazil (1985),0.3112575836120166
+Batman (1989),The Lookout (2007),0.3106768235976567
+Jurassic Park III (2001),The Lost World: Jurassic Park (1997),0.30931941446579103
+The Lost World: Jurassic Park (1997),Jurassic Park III (2001),0.3093194144657909
+The Visit (2015),Downfall (2004),0.30666286096448125
+I Robot (2004),Sexy Beast (2000),0.3058090246266105
+Terminator 3: Rise of the Machines (2003),Terminator 2: Judgement Day (1991),0.30452524220042376
+Terminator 2: Judgement Day (1991),Terminator 3: Rise of the Machines (2003),0.30452524220042365
+I Know What You Did Last Summer (1997),A Time to Kill (1996),0.3024000214198381
+Signs (2002),Barb Wire (1996),0.2984500538227536
+American Psycho (2000),Tropic of Cancer (1970),0.2979851610111176
+Jurassic Park (1993),The Lost World: Jurassic Park (1997),0.2968088595606392
+The Pianist (2002),Torque (2004),0.2952376833317628
+The Last Samurai (2003),FeardotCom (2002),0.29447413009153733
+Charlie's Angels (2000),Crimson Tide (1995),0.29254733279393363
+Sixteen Candles (1984),Best Laid Plans (1999),0.2919731409204682
+A Beautiful Mind (2001),The King of Marvin Gardens (1972),0.2917601050542088
+Rambo: First Blood Part II (1985),Pieces of April (2003),0.28911668225139187
+Top Gun (1986),The Lookout (2007),0.2876855563160826
+Rush Hour 2 (2001),The Mummy Returns (2001),0.2875419018575336
+Fargo (1996),Brazil (1985),0.28672798290158985
+The Lion King (1994),Toy Story (1995),0.2864665585541085
+Gladiator (2000),FeardotCom (2002),0.27815132044092306
+Psycho (1960),What Lies Beneath (2000),0.27765221706564924
+Star Trek: The Motion Picture (1979),The Lookout (2007),0.27761238679240374
+Daredevil (2003),The Bandit (1996),0.2771523965023349
+Grease (1978),The Straight Story (1999),0.2764343445926313
+The Matrix (1999),Miller's Crossing (1990),0.27451243594544805
+Carrie (1976),Sexy Beast (2000),0.27450454571671823
+The Hulk (2003),The Bandit (1996),0.2735440714392723
+E.T. The Extra-Terrestrial (1982),The Final Conflict (1981),0.2732911704269627
+The Avengers (2012),Captain America: Civil War (2016),0.27222306742529523
+Captain America: Civil War (2016),The Avengers (2012),0.2722230674252951
+8 Mile (2002),The Final Conflict (1981),0.27153119655474733
+Pulp Fiction (1994),The Deer Hunter (1978),0.2701543518011379
+Independence Day (1996),Erik the Viking (1989),0.2695325366400816
+The Sixth Sense (1999),Boomerang (1992),0.26938991773730425
+Mrs. Doubtfire (1993),Analyze That (2002),0.26873173507467896
+10 Things I Hate About You (1999),The Insider (1999),0.2682457361495172
+Beauty and the Beauty (1991),War Games (1983),0.266712140492971
+Scream (1996),Scream 3 (2000),0.2666806734044629
+Ouija: Origin of Evil (2016),The Lookout (2007),0.2664071247159604
+The Iron Giant (1999),JFK (1991),0.265315865019783
+Beetle Juice (1988),De-Lovely (2004),0.26441182824771525
+Bend it Like Beckham (2002),Crimson Tide (1995),0.2612300033002951
+Iron Man 3 (2013),Captain America: Civil War (2016),0.2553244278306489
+The Karate Kid Part II (1986),Chain Reaction (1996),0.2529603837789237
+Good Will Hunting (1997),Brazil (1985),0.25200838921714364
+Aladdin (1992),Beauty and the Beauty (1991),0.2517915979848775
+Bruce Almighty (2003),Crimson Tide (1995),0.24973080421660543
+Room (2015),Bram Stoker's Dracula (1992),0.24554983891668047
+Split (2016),The Lookout (2007),0.24445643399755868
+American Pie (1999),Crimson Tide (1995),0.24255736561609254
+The Mask (1994),The Lookout (2007),0.24130419456655916
+Tarzan (1999),Best Laid Plans (1999),0.241234127929011
+Poltergeist (1982),Night of the Living Dead (1968),0.23922736758249052
+My Big Fat Greek Wedding (2002),Father's Day (1997),0.2374130283145186
+A Bug's Life (1998),I.Q. (1994),0.23723801304914904
+The Shining (1980),Psycho (1960),0.23705154245096038
+Godzilla (1998),The Final Conflict (1981),0.23642588067285408
+Spirited Away (2001),Erik the Viking (1989),0.23613333031054118
+How the Grinch Stole Christmas (2000),Erik the Viking (1989),0.2354168149199536
+Dead Poets Society (1989),Sexy Beast (2000),0.23353635369814807
+Cheaper by the Dozen (2003),Moonraker (1979),0.2333794139978912
+Django Unchained (2012),The Life of David Gale (2003),0.23233530678010406
+The Babadook (2014),The Lookout (2007),0.23173445972670914
+The Blair Witch Project (1999),FeardotCom (2002),0.23135619388263173
+Inglorious Bastards (2009),Django Unchained (2012),0.2307261350343076
+Schindler's List (1993),Leon (1994),0.22818369184942433
+American Beauty (1999),Slackers (2002),0.22639811603072113
+Saving Private Ryan (1998),Unforgiven (1992),0.22385033240338614
+Jaws (1975),JFK (1991),0.22379967035544512
+The Princess Bride (1987),Cocktail (1988),0.22292893520504675
+Zoolander (2001),Sexy Beast (2000),0.2213322335372352
+Transformers: Age of Extinction (2014),Iron Man 3 (2013),0.22095781054766084
+The Texas Chainsaw Massacre (1974),Friday the 13th Part III (1982),0.21775755829373278
+King Kong (1976),Unforgiven (1992),0.21748992290395797
+Home Alone (1990),The Lookout (2007),0.21648180938489048
+Batman & Robin (1997),Broken Arrow (1996),0.21340268838727472
+Saw (2004),Halloween (1978),0.21212652812060406
+A Nightmare on Elm Street (1984),Tropic of Cancer (1970),0.21174664733151294
+Indiana Jones and the Kingdom of the Crystal Skull (2008),Crimson Tide (1995),0.21165478575965402
+The Nightmare Before Christmas (1993),The Insider (1999),0.21068277590228535
+The Ring (2002),Erik the Viking (1989),0.21037108215809563
+Scary Movie (2000),Hollow Man (2000),0.21035169146899402
+Batman: The Dark Knight (2008),Crimson Tide (1995),0.20690691530697125
+Elf (2003),The Doom Generation (1995),0.19858879359094883
+The Conjuring (2013),The Exorcist (1973),0.19847391483204524
+The Exorcist (1973),The Conjuring (2013),0.19847391483204513
+Ghostbusters (2016),The Doom Generation (1995),0.1920869574739884
+The Jungle Book (1967),Tarzan (1999),0.18879929537034412
+Planet of the Apes (2001),Equilibrium (2002),0.18877948940600064
+Mission: Impossible II (2000),Boomerang (1992),0.18847616919961718
+Ice Age (2002),On Golden Pond (1981),0.18829625359866053
+The Vow (2012),The Proposal (2009),0.18804119443379375
+The Proposal (2009),The Vow (2012),0.18804119443379363
+Fight Club (1999),Snatch (2000),0.18631096026793525
+Shutter Island (2010),Miller's Crossing (1990),0.1822618592594336
+Back to the Future (1985),The 51st State (2001),0.1792274435983402
+Bad Teacher (2011),Hollow Man (2000),0.1781505582532822
+Spider-Man (2002),Batman (1989),0.17667963521735575
+Forrest Gump (1994),Rain Man (1988),0.17548272387581054
+Inception (2010),The Game (1997),0.1751119967562147
+The Silence of the Lambs (1991),The Shining (1980),0.1723976576053532
+The Wolf of Wall Street (2013),As Good as it Gets (1997),0.17154457601658468
+Grown Ups 2 (2013),The Core (2003),0.17111918539600846
+The Fast and the Furious (2001),Terminator 3: Rise of the Machines (2003),0.1689914228239079
+13 Going on 30 (2004),Can't Hardly Wait (1998),0.16016372820860814
+Titanic (1997),Cocktail (1988),0.15413567330482103
+La La Land (2016),The Lookout (2007),0.14851372649350147
+The Cabin in the Woods (2012),The Evil Dead (1981),0.1438868695548512
+Clueless (1995),Escape from LA (1996),0.141426437225317
+Black Swan (2010),Sorority Boys (2002),0.11708033979272658
+Interstellar (2014),Torque (2004),0.11134259626426413
+Avatar (2009),Bad Boys (1995),0.07948469093084631
